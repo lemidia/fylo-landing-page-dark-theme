@@ -1,16 +1,18 @@
 # Frontend Mentor - Fylo landing page with two column layout
 
-7일 동안 하루에 하나씩 웹 사이트 랜딩 페이지를 만들어 봅시다.
-
-5일차 : Fylo landing page dark theme
+Frontend Mento 사이트에서 프로젝트에 필요한 이미지와 텍스트만이 주어지고, 웹개발 지식을 활용하여 스스로의 힘으로 웹페이지를 완성해 보는 챌린지입니다.
 
 이 프로젝트는 Frontend Mentor 사이트에 있는 프로젝트들을 가지고 진행합니다.
 
-## 프로젝트 따라하기
+## 프로젝트 완성 이미지 예시
 
-다음 링크를 따라가셔서 프로젝트에 필요한 이미지와 텍스트 그리고 가이드라인이 들어있는 파일을 다운로드 할 수 있습니다.
+1. 데스크톱
 
-[해당 프로젝트 기초파일](https://www.frontendmentor.io/challenges/fylo-dark-theme-landing-page-5ca5f2d21e82137ec91a50fd) 
+![Alt text](/images/desktop-img.png)
+
+2. 모바일(구글 크롬 개발자 도구에서의 모바일 iPhone X setting)
+
+![Alt text](/images/mobile-img.png)
 
 ## 결과 프로젝트 실행 방법
 
@@ -32,7 +34,7 @@ Thanks for checking out this front-end coding challenge.
 
 ## Where to find everything
 
-Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design to work to. 
+Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design to work to.
 
 The designs are in JPG static format. This will mean that you'll need to use your best judgment for styles such as `font-size`, `padding` and `margin`. This should help train your eye to perceive differences in spacings and sizes.
 
